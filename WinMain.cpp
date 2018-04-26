@@ -1,3 +1,5 @@
+/*Visual studio 2017 版本下运行*/ 
+
 #include "stdafx.h"
 #include <windows.h>
 #include <stdio.h>
